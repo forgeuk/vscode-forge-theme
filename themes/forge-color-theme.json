@@ -196,6 +196,12 @@
       "settings": {
         "foreground": "#FFC166"
       }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": {
+        "foreground": "#94C979"
+      }
     }
   ]
 }
