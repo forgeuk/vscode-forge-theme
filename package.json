@@ -1,0 +1,21 @@
+{
+  "name": "vscode-forge-theme",
+  "displayName": "Forge Theme",
+  "description": "VS Code Theme using Forge's branding",
+  "version": "1.0.0",
+  "publisher": "Forge",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": ["Themes"],
+  "icon": "icon.jpg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forge",
+        "uiTheme": "vs-dark",
+        "path": "themes/forge-color-theme.json"
+      }
+    ]
+  }
+}
