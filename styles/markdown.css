@@ -1,0 +1,29 @@
+body {
+  background: #f8f8f8;
+  color: #2d2d3f;
+}
+
+a {
+  color: #92d6f4;
+  border-bottom: 2px solid #92d6f4;
+  transition: 0.2s all;
+}
+
+a:hover {
+  color: #65a1a8;
+  border-bottom-color: #65a1a8;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+hr {
+  background: #f47a97;
+}

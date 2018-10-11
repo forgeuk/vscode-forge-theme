@@ -16,7 +16,8 @@
         "uiTheme": "vs-dark",
         "path": "themes/forge-color-theme.json"
       }
-    ]
+    ],
+    "markdown.previewStyles": ["./styles/markdown.css"]
   },
   "galleryBanner": {
     "color": "#2d2d3f",
