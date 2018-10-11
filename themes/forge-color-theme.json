@@ -29,7 +29,10 @@
     "gitDecoration.deletedResourceForeground": "#EA7F6A",
     "gitDecoration.ignoredResourceForeground": "#9F9FA6",
     "gitDecoration.modifiedResourceForeground": "#FFC166",
-    "gitDecoration.untrackedResourceForeground": "#94C979"
+    "gitDecoration.untrackedResourceForeground": "#94C979",
+    "editorGutter.addedBackground": "#94C979",
+    "editorGutter.modifiedBackground": "#FFC166",
+    "editorGutter.deletedBackground": "#EA7F6A"
   },
   "tokenColors": [
     // Comments, separators
