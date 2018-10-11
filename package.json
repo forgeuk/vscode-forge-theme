@@ -2,7 +2,7 @@
   "name": "vscode-forge-theme",
   "displayName": "Forge Theme",
   "description": "A dark theme using Forge's unique and stylish branding",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "publisher": "forge",
   "engines": {
     "vscode": "^1.14.0"
