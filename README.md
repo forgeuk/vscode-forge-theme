@@ -2,6 +2,8 @@
 
 A dark theme for Visual Studio Code using Forge's [unique and stylish branding](https://www.forge.style).
 
+![](screenshot.png)
+
 ---
 
 **Theme developed by [Forge](https://www.forge.uk), a digital marketing and development agency based in Central London.**
