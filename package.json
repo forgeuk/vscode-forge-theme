@@ -1,7 +1,7 @@
 {
   "name": "vscode-forge-theme",
   "displayName": "Forge Theme",
-  "description": "VS Code Theme using Forge's branding",
+  "description": "A dark theme using Forge's unique and stylish branding",
   "version": "1.0.0",
   "publisher": "forge",
   "engines": {
@@ -18,7 +18,10 @@
       }
     ]
   },
-  "galleryBanner.color": "#2d2d3f",
+  "galleryBanner": {
+    "color": "#2d2d3f",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/forgeuk/vscode-forge-theme"
