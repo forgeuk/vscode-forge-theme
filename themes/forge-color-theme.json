@@ -54,6 +54,12 @@
         "foreground": "#EA7F6A"
       }
     },
+    {
+      "scope": "support.constant",
+      "settings": {
+        "foreground": "#EA7F6A"
+      }
+    },
     // {
     //   "scope": "variable.other.constant",
     //   "settings": {
