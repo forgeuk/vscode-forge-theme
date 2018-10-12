@@ -118,6 +118,12 @@
         "foreground": "#EA7F6A"
       }
     },
+    {
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#EA7F6A"
+      }
+    },
 
     // Strings, bold/italic text
     {
