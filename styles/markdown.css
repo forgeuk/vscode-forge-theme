@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700');
+
 body {
-  background: #f8f8f8;
-  color: #2d2d3f;
+  background: #2d2d3f;
+  color: #f8f8f8;
+  font-family: 'Archivo', sans-serif !important;
 }
 
 a {
@@ -22,8 +26,27 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+  font-family: 'Roboto Mono', monospace;
 }
 
 hr {
   background: #f47a97;
+}
+
+code {
+  color: #ffc166 !important;
+  font-size: 0.9em !important;
+  font-family: 'Roboto Mono', monospace !important;
+}
+
+pre {
+  background: #2d2d3f !important;
+  border: 1px solid #616166;
+}
+
+blockquote {
+  color: #9f9fa6;
+  padding: 5px 1em;
+  border-left-color: #f47a97;
+  font-style: italic;
 }
